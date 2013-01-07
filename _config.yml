@@ -1,22 +1,22 @@
 # This is the default format. 
 # For more see: https://github.com/mojombo/jekyll/wiki/Permalinks
-permalink: /:categories/:year/:month/:day/:title 
-
+#permalink: /:categories/:year/:month/:day/:slug
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
 auto: true
+markdown : rdiscount
 pygments: true
 
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Jekyll Bootstrap
-tagline: Site Tagline
+title : "[netarmy@kfn.gov.cn]~% rm -rf firewall"
+tagline : "Across the Kungfu-network, we can reach every corner in the Internet!"
 author :
-  name : Name Lastname
-  email : blah@email.test
-  github : username
-  twitter : username
-  feedburner : feedname
+  name : 網軍總司令
+  email : sz.netarmy AT gmail.com
+  github : netarmy
+  twitter : szxyy
+#  feedburner : feedname
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
@@ -26,7 +26,7 @@ author :
 # Else if you are pushing to username.github.com, replace with your username.
 # Finally if you are pushing to a GitHub project page, include the project name at the end.
 #
-production_url : http://username.github.com
+production_url : http://netarmy.github.com
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
@@ -68,7 +68,7 @@ JB :
   ASSET_PATH : false
 
   # These paths are to the main pages Jekyll-Bootstrap ships with.
-  # Some JB helpers refer to these paths; change them here if needed.
+  # Some JB helpers refer to these paths; change theme here if needed.
   #
   archive_path: /archive.html
   categories_path : /categories.html
@@ -81,7 +81,7 @@ JB :
   comments :
     provider : disqus
     disqus :
-      short_name : jekyllbootstrap
+      short_name : netarmy-github
     livefyre :
       site_id : 123
     intensedebate :
@@ -96,14 +96,14 @@ JB :
   # Set 'provider' to the analytics provider you want to use.
   # Set 'provider' to false to turn analytics off globally.
   #        
-  analytics :
-    provider : google 
-    google : 
-        tracking_id : 'UA-123-12'
-    getclicky :
-      site_id : 
-    mixpanel :
-        token : '_MIXPANEL_TOKEN_'
+#  analytics :
+#    provider : google 
+#    google : 
+#        tracking_id : 'UA-123-12'
+#    getclicky :
+#      site_id : 
+#    mixpanel :
+#        token : '_MIXPANEL_TOKEN_'
 
   # Settings for sharing helper. 
   # Sharing is for things like tweet, plusone, like, reddit buttons etc.
@@ -123,4 +123,3 @@ JB :
   # and include your custom code. Your custom file must be defined at:
   #   ./_includes/custom/[HELPER]
   # where [HELPER] is the name of the helper you are overriding.
-  
