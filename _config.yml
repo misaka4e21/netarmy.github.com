@@ -7,14 +7,14 @@ title: 御坂網路司令塔
 subtitle: 偉大光榮正確的中土國民會萬歲
 description: 一切從頭開始
 author: Misakanetarmy Hsin
-language: 'zh-TW'
+language: 'zh-ROC'
 timezone: 
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: https://misaka.genderqueer.gq
 root: /
-permalink: :year/:month/:day/:title/
+permalink: :title/
 permalink_defaults:
 
 # Directory
@@ -63,7 +63,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: Hacker
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
