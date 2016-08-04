@@ -61,11 +61,11 @@
 }
 
 .article-top-meta a:hover {
-    color: #F03838;
+    color: #3a6ea5;
 }
 
 .article-top-meta .post-edit-link {
-    color: #F03838;
+    color: #3a6ea5;
 }
 
 .article-top-meta .post-edit-link:hover {
@@ -114,7 +114,7 @@
 }
 
 .article-meta a:hover {
-    color: #F03838;
+    color: #3a6ea5;
 }
 
 .article-meta i {
@@ -149,7 +149,7 @@
     display: block;
     width: 12px;
     height: 11px;
-    background-color: #F03838;
+    background-color: #3a6ea5;
 }
 
 .sticky-mark:before {
@@ -162,7 +162,7 @@
     height: 0;
     border-style: solid;
     border-width: 6px 6px 0 0;
-    border-color: #F03838 transparent transparent transparent;
+    border-color: #3a6ea5 transparent transparent transparent;
 }
 
 .sticky-mark:after {
@@ -175,7 +175,7 @@
     height: 0;
     border-style: solid;
     border-width: 0 6px 6px 0;
-    border-color: transparent #F03838 transparent transparent;
+    border-color: transparent #3a6ea5 transparent transparent;
 }
 
 .page-links {
