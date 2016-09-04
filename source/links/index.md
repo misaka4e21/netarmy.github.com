@@ -9,7 +9,7 @@ date: 2016-08-03 23:36:35
 * [reverland](http://reverland.org/)
 * [realasking | 觀瀾魂](http://realasking.github.io/index.html) 「大獅兄」
 * [xw_y_am](http://web.xwyam.info/blog) 「葉神」
-* [Poker Lee | 910JQK](http://poker-lee.tk/)  「撲克」
+* [Poker Lee | 910JQK](http://poker-lee.xyz/)  「撲克」
 * [冰雪聰明琳之風 | Icenowy](http://www.icenowy.tk/) 「0x2731」
 * [greatljcads](http://ljcads.com/)
 * [Sloger | jtlyzsq5039](http://blog.sloger.info/) 「阿狸」
