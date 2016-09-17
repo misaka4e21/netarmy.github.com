@@ -4,7 +4,10 @@ s: lgbt-fsf-libreboot
 date: 2016-09-16 22:31:53
 tags:
 ---
-背景：Libreboot 創始人 Leah Rowe 在郵件列表中宣佈 Libreboot 退出 GNU 計劃，原因是 FSF 「僅僅因爲 transgender 原因」解僱了一名員工。
+背景：Libreboot 創始人 Leah Rowe 在郵件列表中宣佈 Libreboot 退出 GNU 計劃，原因是 FSF 「僅僅因爲 transgender 原因」解僱了一名員工（然後被 Richard Stallman 闢謠）。
+
+[Leah Rowe 的檄文](https://lists.gnu.org/archive/html/libreboot/2016-09/msg00036.html)
+[RMS 的回覆](https://lists.gnu.org/archive/html/libreboot/2016-09/msg00052.html)
 
 * 标题：司徒满怒斥安同网记者
 * 角色：Misaka 0xA2E5(M);Richard Matthew Stallman(S);Linus Torvalds(T)
