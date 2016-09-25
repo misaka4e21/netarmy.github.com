@@ -10,7 +10,7 @@ date: 2016-08-03 23:36:35
 * [xw_y_am](http://web.xwyam.info/blog) 「葉神」
 * [Poker Lee | 910JQK](http://poker-lee.xyz/)  「撲克」
 * [Lensual](https://lensual.dreamerstudio.net/blog/) 「職自聯祕書處祕書」
-* [Eric Zhou](https://blog.zhouys.ac.cn/) 「職自聯祕書長」
+* [神楽坂舞夏](https://blog.zhouys.ac.cn/) 「職自聯祕書長」
 * [蔓舞寻樱](https://emiria.io/)
 * [reverland](http://reverland.org/)
 * [realasking | 觀瀾魂](http://realasking.github.io/index.html) 「大獅兄」
