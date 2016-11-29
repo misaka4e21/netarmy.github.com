@@ -7,6 +7,7 @@ date: 2016-08-03 23:36:35
 * [shell_way | iSpeller](http://arondight.me/) 「姐姐大人」
 * [比爾蓋子](https://biergaizi.info/)
 * [冰雪聰明琳之風 | Icenowy](http://www.icenowy.tk/) 「0x2731」
+* [BroncoTc](https://blog.broncotc.com) 「0xb0c0」
 * [xw_y_am](http://web.xwyam.info/blog) 「葉神」
 * [Poker Lee | 910JQK](http://poker-lee.xyz/)  「撲克」
 * [Lensual](https://lensual.dreamerstudio.net/blog/) 「職自聯祕書處祕書」
