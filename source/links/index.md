@@ -23,6 +23,7 @@ date: 2016-08-03 23:36:35
 * [nrechn](https://nrechn.de/)
 * [StarBrilliant](https://m13253.blogspot.com/)
 * [YOITSU ne 賢狼 HORO](https://blog.yoitsu.moe) 「萌狼」
+* [PeterCxy](https://typeblog.net/) 「彼得網路」
 ##### 非 BLOG
 * [Artoria2e5](https://about.me/Arthur2e5) 「0x{,a}2e5」
 * [Jeff Bai](https://about.me/mingcongbai) 「白學特首」
