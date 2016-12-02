@@ -9,6 +9,7 @@ date: 2016-08-03 23:36:35
 * [冰雪聰明琳之風 | Icenowy](http://www.icenowy.tk/) 「0x2731」
 * [BroncoTc](https://blog.broncotc.com) 「0xb0c0」
 * [xw_y_am](http://web.xwyam.info/blog) 「葉神」
+* [cnfczn](https://cnfczn.github.io/) 「上條當爹」
 * [Poker Lee | 910JQK](http://poker-lee.xyz/)  「撲克」
 * [Lensual](https://lensual.dreamerstudio.net/blog/) 「職自聯祕書處祕書」
 * [神楽坂舞夏](https://blog.zhouys.ac.cn/) 「職自聯祕書長」
