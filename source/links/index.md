@@ -10,6 +10,7 @@ date: 2016-08-03 23:36:35
 * [BroncoTc](https://blog.broncotc.com) 「0xb0c0」
 * [xw_y_am](http://web.xwyam.info/blog) 「葉神」
 * [cnfczn](https://cnfczn.github.io/) 「上條當爹」
+* [Sloger | jtlyzsq5039](https://blog.zhustec.me/) 「阿狸」
 * [Poker Lee | 910JQK](http://poker-lee.xyz/)  「撲克」
 * [Lensual](https://lensual.dreamerstudio.net/blog/) 「職自聯祕書處祕書」
 * [神楽坂舞夏](https://blog.zhouys.ac.cn/) 「職自聯祕書長」
@@ -30,7 +31,6 @@ date: 2016-08-03 23:36:35
 ##### 非 BLOG
 * [Artoria2e5](https://about.me/Arthur2e5) 「0x{,a}2e5」
 * [Jeff Bai](https://about.me/mingcongbai) 「白學特首」
-* [Sloger | jtlyzsq5039](http://blog.sloger.info/) 「阿狸」
 * [荊棘的思念](http://lovearia.me/)
 * [阿卡琳酱](http://2dango.com/)
 * [福音樂章](http://fyyz.me/)
@@ -40,7 +40,7 @@ date: 2016-08-03 23:36:35
 #### 組織
 * [安同開源社區](https://aosc.io) 「中土國民會江浙滬皖女裝少年聯盟附設安徽同志網」
 * [北京 GNU/Linux 用戶組](https://beijinglug.club/) 「北平 `GNU/{Linux-libre,Hurd,Emacs,GRUB2}` 使用者協會」
-* [中土國民會自由韌體基金會聯合會中央重建風紀委員會（重風會）](https://blog-netarmy.rhcloud.com) 「Free Firmware Foundation 青年團『火把』特別行動隊」
+* [中土國民會自由韌體基金會聯合會中央重建風紀委員會（重風會）](https://blog-netarmy.rhcloud.com) 「Free Firmware Foundation 青年團『火把』特別行動隊」 其實還是御坂自己。嘟、御坂御坂泄密道。
 
 排名不分高下（但可能被用於區分）
 
