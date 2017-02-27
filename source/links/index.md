@@ -12,7 +12,7 @@ date: 2016-08-03 23:36:35
 * [cnfczn](https://cnfczn.github.io/) 「上條當爹」
 * [Sloger | jtlyzsq5039](https://blog.zhustec.me/) 「阿狸」
 * [Poker Lee | 910JQK](http://poker-lee.xyz/)  「撲克」
-* [Lensual](https://lensual.dreamerstudio.net/blog/) 「職自聯祕書處祕書」
+* [Lensual](https://lensual.space/) 「職自聯祕書處祕書」
 * [神楽坂舞夏](https://blog.zhouys.ac.cn/) 「職自聯祕書長」
 * [蔓舞寻樱](https://emiria.io/)
 * [reverland](http://reverland.org/)
