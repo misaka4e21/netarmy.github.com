@@ -14,7 +14,7 @@ date: 2016-08-03 23:36:35
 * [Poker Lee | 910JQK](http://poker-lee.xyz/)  「撲克」
 * [本地磁盘](http://ohayou.moeres.org/) 「職自聯名譽祕書長」
 * [Lensual](https://lensual.space/) 「職自聯祕書處祕書」
-* [神楽坂舞夏](aozora.moe) 「職自聯祕書長」
+* [神楽坂舞夏](https://aozora.moe) 「職自聯祕書長」
 * [蔓舞寻樱](https://emiria.io/)
 * [reverland](http://reverland.org/)
 * [realasking | 觀瀾魂](http://realasking.github.io/index.html) 「大獅兄」
