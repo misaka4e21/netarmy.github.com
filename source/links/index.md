@@ -20,6 +20,7 @@ date: 2016-08-03 23:36:35
 * [realasking | 觀瀾魂](http://realasking.github.io/index.html) 「大獅兄」
 * [butangmucat](https://www.tombu.info/) 「0x2730」
 * [shy泠](https://shyling.com/)
+* [manageryzy](https://www.261day.com/) 「神乐坂膜奶」
 * [悔恨的阿毛](http://blog.winkidney.com/)
 * [纯洁即吾命](https://coolrc.me/)
 * [即或不然 | odaynot](http://ishell.me/)
